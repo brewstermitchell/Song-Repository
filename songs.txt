@@ -1,0 +1,7 @@
+Kiara;Bonobo;3;50;Black Sands
+We Could Forever;Bonobo;4;20;Black Sands
+Cirrus;Bonobo;5;52;The North Borders
+Dream On;Aerosmith;4;28;Aerosmith
+Blackout City;Amanaguchi;3;24;Dawn Metropolis
+Imagine;John Lennon;3;3;Imagine
+Ace of Spades;Motorhead;2;48;Ace of Spades
